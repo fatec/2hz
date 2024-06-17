@@ -1,5 +1,5 @@
 ---
-title: "2hz"
+title: "2Hz"
 ---
 
 This is a Quarto website.
