@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "2hz"
+  title: "2Hz"
   navbar:
     left:
       - href: index.qmd
